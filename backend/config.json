@@ -2,20 +2,20 @@
   "frontend": {
     "scoreEnabled": true,
     "spellsEnabled": true,
-    "coachesEnabled": true,
+    "coachesEnabled": false,
     "blueTeam": {
-      "name": "Team Blue",
-      "score": 2,
+      "name": "",
+      "score": 0,
       "coach": "Coach Blue",
-      "color": "rgb(0,151,196)"
+      "color": "rgb(0,181,226)"
     },
     "redTeam": {
-      "name": "Team Red",
-      "score": 1,
+      "name": "",
+      "score": 0,
       "coach": "Coach Red",
-      "color": "rgb(222,40,70)"
+      "color": "rgb(220,0,49)"
     },
-    "patch": "9.19"
+    "patch": "11.7"
   },
   "contentPatch": "latest",
   "contentCdn": "https://ddragon.leagueoflegends.com/cdn"
